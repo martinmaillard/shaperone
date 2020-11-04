@@ -1,5 +1,11 @@
 # @hydrofoil/shaperone-wc-material
 
+## 0.1.7
+
+### Patch Changes
+
+- 025173d: Do not hide overflowing content of mwc-item-lite
+
 ## 0.1.6
 
 ### Patch Changes

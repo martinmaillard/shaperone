@@ -1,5 +1,14 @@
 # @hydrofoil/shaperone-playground
 
+## 0.1.2
+
+### Patch Changes
+
+- 6339b95: Include editor settings in sharing link
+- 39fba38: Persist editor configuration between sessions
+- Updated dependencies [025173d]
+  - @hydrofoil/shaperone-wc-material@0.1.7
+
 ## 0.1.1
 
 ### Patch Changes

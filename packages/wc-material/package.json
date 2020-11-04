@@ -1,6 +1,6 @@
 {
   "name": "@hydrofoil/shaperone-wc-material",
-  "version": "0.1.6",
+  "version": "0.1.7",
   "description": "Rendering forms in Material Design style",
   "main": "index.js",
   "files": [
